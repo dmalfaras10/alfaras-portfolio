@@ -30,7 +30,7 @@
         <div 
             v-for="(group, index) in chunkedCapstones" 
             :key="'capstone-row-' + index" 
-            class="row justify-content-center my-4"
+            class="row justify-content-center my-4 p"
         >
             <ProjectCard 
                 v-for="project in group" 
