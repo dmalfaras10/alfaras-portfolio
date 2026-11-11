@@ -663,7 +663,7 @@ body{
 }
 
 #send-message:hover {
-  background: var(primary-dark);;
+  background: var(primary-dark);
   border-color: var(primary-dark);
   color: white;
   transform: translateY(-2px);
