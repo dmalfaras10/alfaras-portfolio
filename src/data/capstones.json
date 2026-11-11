@@ -1,0 +1,23 @@
+[
+    {
+        "id": 7,
+        "type": "CAPSTONE",
+        "title": "Developer Portfolio Website",
+        "image": "/images/capstone.png",
+        "description": "A responsive portfolio showcasing my projects, technical skills, and web development experience."
+    },
+    {
+        "id": 8,
+        "type": "CAPSTONE",
+        "title": "E-Commerce Backend API",
+        "image": "/images/capstone2.png",
+        "description": "A scalable RESTful API built with Node.js, Express, and MongoDB for user auth, products, and orders."
+    },
+    {
+        "id": 9,
+        "type": "CAPSTONE",
+        "title": "E-Commerce Web-App",
+        "image": "/images/capstone3.png",
+        "description": "A full-stack e-commerce app built with the MEVN stack featuring state management and interactive shopping flows."
+    }
+]
