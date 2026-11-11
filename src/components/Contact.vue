@@ -158,7 +158,7 @@
 	          Company / Organization
 	          <span class="text-muted">(Optional)</span>
 	        </label>
-	        <input type="text" class="form-control" id="company" name="company" placeholder="Company name" required v-model="company">
+	        <input type="text" class="form-control" id="company" name="company" placeholder="Company name" v-model="company">
 	      </div>
 	      <!-- Message -->
 	      <div class="mb-4 text-start">
