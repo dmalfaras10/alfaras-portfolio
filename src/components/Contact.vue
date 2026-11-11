@@ -6,7 +6,7 @@
 
     const notyf = new Notyf();
     const WEB3FORM_ACCESS_KEY = "d5770afc-3565-49ea-a740-41f304c6aabc";
-    const SITE_KEY = "6LdBrxouAAAAAE56w1972uhtHjSy5DBYgvOKuBMP";
+    const SITE_KEY = "6LdatBouAAAAAGI8iNeICNyPDqe-cDGs7ojEwa3D";
     const first_name = ref("");
     const last_name = ref("");
     const email = ref("");
